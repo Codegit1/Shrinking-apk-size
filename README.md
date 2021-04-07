@@ -1,9 +1,9 @@
 # Shrinking-apk-size
 Tips to shrink apk size
 #build.gradle(app level) 
-** shinkResources true
+// shinkResources true
    minifyEnabled
-**
+//
 
 #gradle.properties
 android.enableR8=true
